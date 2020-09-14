@@ -1,6 +1,15 @@
 # thoughts-science-technical
+Some study materials more focus on ideas and theory than the concrete technology.
 
-#### Mathematical
+#### 1. Electronic
+* Foundation of Digital Electronics and Logic Design
+* Fundamental Electrical and Electronic Principles
+#### 2. English Grammar
+* Basic-English-Grammar-1
+* collins_cobuild_english_grammar_collins_digital_edition
+* fundamentals-of-english-grammar
+* The-elements-of-style
+#### 3. Mathematical
 * A First Course in Mathematical Modeling [5th Edition]
 * Algebra And Trigonometry-LR
 * Applied Statistics and Probability for Engineers
@@ -15,12 +24,19 @@
 * Thomas' Calculus 13th [Solutions]
 * Thomas' Calculus 13th
 * Trigonometry A Complete Introduction by Hugh Neill
-
-#### Thinking and Knowledge
+#### 4. Short Report
+* Container mechanics in rkt and Linux
+* ncc_group_understanding_hardening_linux_containers-1-1
+* Spin locks and Contention
+* virtualization-Cambrige University
+#### 5. Thinking and Knowledge
+* just-for-fun
 * In The Plex
 * Wealth of Nations
-* At the top of Wave
-
+* At the top of Tides
+#### unsorted
+* Data Points-Visualization That Means Something
 * Flow-the Psychology of optimal experience
+* PumpkinBook
 * The Willpower Instinct-how self control works
 * Zero to One
